@@ -2,8 +2,8 @@
 
 An employee directory exposes more information than intended. Find a way into the administrator area and recover the flag.
 
-`difficulty: Medium` <br>
-`author: Aryan`
+`Difficulty: Medium` <br>
+`Author: emperorakj :)`
 
 ## Flag
 ```text
